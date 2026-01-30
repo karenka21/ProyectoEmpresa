@@ -11,8 +11,7 @@ public class Principal {
 				Scanner lectura = null;
 
 				
-				System.out.println("Bien día");
-				System.out.println("Hay cambios");
+				
 				int numEmp, menuPri, subMenu, indice;
 				String nombre, departamento;
 				float sueldo;
